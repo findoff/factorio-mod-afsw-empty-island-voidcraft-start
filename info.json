@@ -1,0 +1,15 @@
+{
+  "name": "afsw-empty-island-voidcraft-start",
+  "version": "0.0.1",
+  "title": "Voidcraft on EmptyIsland start [AFSW]",
+  "author": "abnessor",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age",
+    "afsw-planet-empty-island >= 0.0.1",
+    "any-planet-start >= 1.1.0",
+    "Voidcraft >= 1.4.0"
+  ],
+  "description": "Start on GenBlock"
+}
